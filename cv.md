@@ -45,3 +45,11 @@ I have no experience other than studying.
 
 ## Education ##
 [RS School](https://rs.school/) - Now study
+
+***
+
+## Languages ##
+
+**English** - Elementary
+**Russian** - Native
+**Ukrainian** - Native
