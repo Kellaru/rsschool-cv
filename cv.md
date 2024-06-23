@@ -1,4 +1,4 @@
-# Ovsienko Sergei #
+# *** Ovsienko Sergei *** #
 
 ***
 
@@ -50,6 +50,6 @@ I have no experience other than studying.
 
 ## Languages ##
 
-**English** - Elementary
-**Russian** - Native
-**Ukrainian** - Native
+* **English** - Elementary
+* **Russian** - Native
+* **Ukrainian** - Native
