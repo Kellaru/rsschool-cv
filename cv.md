@@ -1,4 +1,4 @@
-# *** Ovsienko Sergei *** #
+# ***Ovsienko Sergei*** #
 
 ***
 
