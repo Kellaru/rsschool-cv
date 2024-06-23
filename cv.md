@@ -4,7 +4,7 @@
 
 ## Contacts ##
 
-Email: 1kellaru@gmail.com
+Email: 1kellaru@gmail.com         
 Discord: Kellaru
 
 ***
