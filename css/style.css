@@ -1,0 +1,198 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: inherit;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: underline;
+    text-decoration-color: #a2d3db;
+    text-underline-offset: 7px;
+    text-decoration-thickness: 3px;
+    padding: 20px;
+}
+
+a:hover {
+    text-decoration-color: #fcff44;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+html,
+body {
+    height: 100%;
+    font-family: Arial;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #202020;
+    scroll-behavior: smooth;
+}
+
+p {
+    padding: 0 20px;
+
+}
+
+.wrapper {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #a2d3db;
+}
+
+.header {}
+
+.container {
+    max-width: 1440px;
+    padding: 40px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+.header__inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.photo {}
+
+.photo img {
+    display: block;
+    max-width: 432px;
+    height: auto;
+    border-radius: 10%;
+}
+
+.menu-title {}
+
+.menu {}
+
+.menu__items {
+    display: flex;
+    padding: 0;
+    margin: 0;
+
+}
+
+.menu__item {
+    font-size: 24px;
+    font-weight: 400;
+    align-items: center;
+}
+
+.menu__item a {
+    text-decoration: underline;
+    text-decoration-color: #a2d3db;
+    text-underline-offset: 7px;
+    text-decoration-thickness: 3px;
+    padding: 20px;
+}
+
+.menu__item a:hover {
+    text-decoration-color: #fcff44;
+    background-color: #a2d3db;
+
+}
+
+
+
+.title {
+    align-self: center;
+    font-size: 30px;
+    padding-top: 200px;
+}
+
+.main {}
+
+.description {}
+
+.description__inner {
+    display: flex;
+}
+
+.description__left {
+    min-width: 432px;
+    padding: 0 20px;
+}
+
+.contacts :first-child {
+    padding-bottom: 20px;
+}
+
+.contacts li {
+    padding-bottom: 20px;
+}
+
+.skills {
+    padding-bottom: 20px;
+}
+
+.skills ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
+.skills li {
+    margin: 20px 0;
+}
+
+.languages {}
+
+.description__right {
+    padding: 0 20px;
+}
+
+.about {
+    padding-bottom: 20px;
+}
+
+.code {
+    padding-bottom: 20px;
+}
+
+.expirience {
+    padding-bottom: 20px;
+}
+
+.expirience a {
+    padding-left: 20px;
+}
+
+.education {}
+
+.footer {}
+
+.footer__inner {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.footer__item {
+    padding: 20px;
+}
+
+.date {}
+
+.logo-rss img {
+    width: 100px;
+    height: auto;
+}
+
+.git img {
+    width: 50px;
+    height: auto;
+}
