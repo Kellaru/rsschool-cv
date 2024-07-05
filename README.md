@@ -1,1 +1,1 @@
-# rsschool-cv
+https://kellaru.github.io/rsschool-cv/
